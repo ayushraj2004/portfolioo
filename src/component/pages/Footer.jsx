@@ -10,7 +10,7 @@ const Footer = () => {
           <img src={loveImage} alt="" />
         </span>
       </div>
-      <div>Rahul Gurjar</div>
+      <div>Ayush raj</div>
     </div>
   );
 };

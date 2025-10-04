@@ -1,6 +1,6 @@
 import ProjectCard from "../otherCompo/projectcard/projectBox";
 import leftside from "../../assets/leftSide.png";
-import comrade from "../../assets/comrade.png";
+import comrade from "../../assets/comrade.png.png";
 import courseSelling from "../../assets/courseSelling.png";
 import password from "../../assets/password.png";
 import fylo from "../../assets/fylo.png";
@@ -9,37 +9,46 @@ import EassyBank from "../../assets/EassyBank.png";
 function Project() {
   const Allproject = [
     {
-      name: "Comrade",
+      name: "Stock Price Prediction using Time Series Data",
       about:
-        "Comrade is a social media app inspired by twitter. Where User can share Tweet Like, Comment, ReTweet the post",
-      tech: "REACTJS, NODEJS, EXPRESSJS, MONGODB, JWT , BCRYPT",
-      url: "https://github.com/rahulgurjar247/Comrade",
-      status: `On Progress...👈`,
+        "This project aims to predict stock prices using historical time series data.",
+      tech: "REACTJS, NODEJS, EXPRESSJS, MONGODB, ML ALGO,NUMPY,PANDAS",
+      url: "https://github.com/ayushraj2004/Stock-Price-Prediction",
+      status: ``,
       backgroundImage: comrade,
     },
     {
-      name: "Course selling Site",
+      name: "Stock Price Prediction using Time Series Data",
       about:
-        "A website where user can signIn/signUp and view course card and have ability to purchase these course  ",
-      tech: "REACTJS, NODEJS, EXPRESSJS, MONGODB, JWT ",
-      url: "https://github.com/rahulgurjar247/Course-Selling-Website-Mern",
-      status: "On Progress...👈",
+        "This project aims to predict stock prices using historical time series data.",
+      tech: "REACTJS, NODEJS, EXPRESSJS, MONGODB, ML ALGO,NUMPY,PANDAS",
+      url: "https://github.com/ayushraj2004/Stock-Price-Prediction",
+      status: ``,
+      backgroundImage: comrade,
+    },
+    {
+      name: "Hybrid-Generative-AI-Model",
+      about:
+        "Hybrid Generative AI Model Combining Variational Autoencoders and Generative Adversarial Networks  ",
+      tech: "Python,PyTorch, TorchVision, Variational FPDF, Matplotlib, GAN  ",
+      url: "https://github.com/ayushraj2004/Hybrid-Generative-AI-Model",
+      status: "",
       backgroundImage: courseSelling,
     },
     {
-      name: "Password manager",
+      name: "Store Management System",
       about:
-        "Password manager can help you to save your password in your browser in a secure way",
-      tech: "REACTJS, NODEJS, EXPRESSJS, MONGODB, JWT ",
-      url: "https://github.com/rahulgurjar247/Password-Manager",
+        "Retail Store Management System Overview The Retail Store Management System is a comprehensive solution",
+      tech: "Node.js, Express.js Frontend: EJS, CSS, Bootstrap Database: MongoDB Data Visualization ",
+      url: "https://github.com/ayushraj2004/Store-Management-System",
       backgroundImage: password,
     },
     {
-      name: "Fylo landing page",
+      name: "Carent-ReactJs",
       about:
-        "Fylo is a  langing page for a company  i made this page complete responsive for mobile devics",
-      tech: "Html,css, javascript , MediaQuery",
-      url: "https://rahulgurjar247247.netlify.app",
+        "Carrent is a  langing page for a company  i made this page complete responsive for mobile devics",
+      tech: "reactjs,css, html,javascript , MediaQuery",
+      url: "https://acarrent.netlify.app",
       backgroundImage: fylo,
     },
     {
@@ -47,7 +56,7 @@ function Project() {
       about:
         "This is a landing page for Easy bank , this is a complete responsive landing page   ",
       tech: "Html, css, javascript",
-      url: "https://rahulgurjar-easybank.netlify.app",
+      url: "",
       backgroundImage: EassyBank,
     },
   ];

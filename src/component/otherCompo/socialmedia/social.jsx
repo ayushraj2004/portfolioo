@@ -3,7 +3,7 @@ export default function Social() {
       <>
         <div className="social">
           <a
-            href="mailto:rahulgurjar824582@gmail.com"
+            href="mailto:ayushrajo563@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -24,7 +24,7 @@ export default function Social() {
             </svg>
           </a>
           <a
-            href="https://twitter.com/RahulGurjar_247"
+            href="https://x.com/ayush_thakur20"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -41,7 +41,7 @@ export default function Social() {
             </svg>
           </a>
           <a
-            href="https://www.linkedin.com/in/rahulgurjar247247/"
+            href="https://www.linkedin.com/in/ayush-raj-2b77b9256/"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -58,7 +58,7 @@ export default function Social() {
             </svg>
           </a>
           <a
-            href="https://github.com/rahulgurjar247"
+            href="https://github.com/ayushraj2004"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -75,7 +75,7 @@ export default function Social() {
             </svg>
           </a>
           <a
-            href="https://www.instagram.com/rahul__gurjar_247/"
+            href="https://www.instagram.com/ayush_thakur14/"
             target="_blank"
             rel="noopener noreferrer"
           >

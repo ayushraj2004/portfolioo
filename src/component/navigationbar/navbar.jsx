@@ -39,7 +39,7 @@ const Navbar = () => {
       <nav>
         {/* <div className="navImg">
           <img src={icon} alt="devloper rahul" />
-          <h4>Rahul gurjar</h4>
+          <h4>Ayush raj </h4>
         </div> */}
 
         <ul>

@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import icon from "../../assets/developer.png"
-import rahulgurjar from "../../assets/RahulGurjarResume.pdf";
+import rahulgurjar from "../../assets/A-R.pdf.pdf";
 import { useIsMobile } from "../hooks/isMobileHook.jsx";
 
 const add = {
@@ -14,7 +14,7 @@ function Home() {
         <div className="left">
           <h2>Hi there,👋</h2>
           <h1>
-            My Self <span>Rahul gurjar</span> <br />I am a Full-Stack Developer
+            My Self <span>Ayush raj</span> <br />I am a AI/ML Engineer
           </h1>
           <div>
             <button id="getInTouch">
@@ -23,7 +23,7 @@ function Home() {
               </li>
             </button>
             <button id="ResumeDownload">
-              <a href={rahulgurjar} download="Rahul_Gurjar_Resume">
+              <a href={rahulgurjar} download="A-R.pdf">
                 Download Resume
               </a>
             </button>
